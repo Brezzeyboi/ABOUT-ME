@@ -13,11 +13,6 @@
     <li>📌 Top-left compact UI for personal touch</li>
   </ul>
 
-  <h2>❌ Features Removed</h2>
-  <ul>
-    <li>❌ Background music (to improve performance/stability)</li>
-  </ul>
-
   <h2>📂 Folder Structure</h2>
   <pre><code>/project-root
 ├── index.html         # Main webpage
