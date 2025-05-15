@@ -10,11 +10,3 @@ document.addEventListener('DOMContentLoaded', () => {
       : '📂 Show Projects';
   });
 });
-
-// script.js
-window.addEventListener('click', () => {
-  const music = document.getElementById('bg-music');
-  if (music && music.paused) {
-    music.play().catch(() => {});
-  }
-}, { once: true });
