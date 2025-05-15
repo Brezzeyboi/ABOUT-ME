@@ -22,9 +22,7 @@
   <pre><code>/project-root
 ├── index.html         # Main webpage
 ├── styles.css         # CSS styling
-├── script.js          # Animation & interaction logic
-└── assets/
-    └── favicon.svg    # Your custom logo/favicon
+└── script.js          # Animation & interaction logic
 </code></pre>
 
   <h2>🔧 Setup</h2>
@@ -41,7 +39,7 @@
   <p><i>Coming soon: Insert a screenshot or short GIF preview here!</i></p>
 
   <h2>🙋‍♂️ Author</h2>
-  <p>Made with love by <strong>Senpai</strong> ✨<br/>
+  <p>Made with love by <strong>Brezzeyboi</strong> ✨<br/>
   Feel free to fork and customize for your own use!</p>
 </body>
 </html>
