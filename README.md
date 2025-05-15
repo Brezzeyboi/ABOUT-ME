@@ -1,48 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>README – Terminal About Me Site</title>
-  <style>
-    body {
-      background: #0e0e0e;
-      color: #dcdcdc;
-      font-family: 'Courier New', monospace;
-      padding: 40px;
-      line-height: 1.6;
-    }
-    h1, h2 {
-      color: #00ff88;
-    }
-    code {
-      background: #1e1e1e;
-      padding: 4px 6px;
-      border-radius: 4px;
-      color: #00ffcc;
-    }
-    pre {
-      background: #1e1e1e;
-      padding: 12px;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    a {
-      color: #00ccff;
-      text-decoration: none;
-    }
-    a:hover {
-      text-decoration: underline;
-    }
-    .tag {
-      background: #00ff88;
-      color: #0e0e0e;
-      font-weight: bold;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-  </style>
-</head>
+<html>
 <body>
   <h1>🧑‍💻 Terminal-Themed About Me Website</h1>
 
