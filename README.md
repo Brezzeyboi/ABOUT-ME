@@ -31,8 +31,13 @@
   </ul>
 
   <h2>📸 Preview</h2>
-  <p><i>Coming soon: Insert a screenshot or short GIF preview here!</i></p>
-
+  <img src="Preview Images/Screenshot 2025-05-15 213444.png">
+  <br>
+  <img src="Preview Images/Screenshot 2025-05-15 213459.png">
+  <br>
+  <img src="Preview Images/Screenshot 2025-05-15 213514.png">
+  <br>
+  
   <h2>🙋‍♂️ Author</h2>
   <p>Made with love by <strong>Brezzeyboi</strong> ✨<br/>
   Feel free to fork and customize for your own use!</p>
